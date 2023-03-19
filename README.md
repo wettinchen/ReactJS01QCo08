@@ -1,4 +1,4 @@
-## ReactJS01QCo08
+## ReactJS Chapter 01 - Quick Concept outline 08
 It is my coding practice with the TUTORIAL of Dave Gray. 
 
 ## Source
