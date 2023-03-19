@@ -4,12 +4,11 @@ It is my coding practice with the TUTORIAL of Dave Gray.
 # Source
 Dave Gray 的 Reactjs 課程
 https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
-
 Dave Gray 的 YouTube 頻道
 https://www.youtube.com/@DaveGrayTeachesCode
 
 # ReactJS Chapter 01
-#  Quick Concept outline
+   Quick Concept outline
    中文摘要說明與重點提問
 
 # 1. Intro 
