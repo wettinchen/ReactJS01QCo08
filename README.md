@@ -1,12 +1,11 @@
 # ReactJS01QCo08
 It is my coding practice with the TUTORIAL of Dave Gray. 
 
-# SUMMARY
-
-### Dave Gray 的 Reactjs 課程
+# Source
+Dave Gray 的 Reactjs 課程
 https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
 
-### Dave Gray 的 YouTube 頻道
+Dave Gray 的 YouTube 頻道
 https://www.youtube.com/@DaveGrayTeachesCode
 
 ## ReactJS Chapter 01
